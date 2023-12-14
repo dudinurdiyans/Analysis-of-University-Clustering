@@ -1,0 +1,26 @@
+https://www.kaggle.com/code/faressayah/knneighbors-private-vs-public-universities/data
+Column: 17
+Row: 1046
+
+Kolom terdiri dari 
+a. Private: Faktor bertingkat No dan Yes menunjukkan universitas swasta atau negeri.
+b.Apps: Jumlah lamaran yang masuk
+c. Accept: Jumlah lamaran yang diterima
+d. Enroll: Jumlah mahasiswa baru yang terdaftar
+e. Top10perc: Persen mahasiswa baru dari 10% teratas kelas SMA
+f. Top25perc: Persen mahasiswa baru dari 25% teratas kelas SMA
+g. F_undergrad: Jumlah sarjana yang bekerja penuh waktu
+h. P_undergrad: Jumlah sarjana yang bekerja paruh waktu
+i. Outstate: Biaya pendidikan
+j. Room_board: Biaya kamar dan asrama
+k. Books: Estimasi biaya buku
+l. Personal: Perkiraan biaya pribadi selama kuliah
+m. Phd: Persen fakultas dengan gelar Ph.D
+n. Terminal: Persen fakultas dengan gelar terminal
+o. Rasio_s_f: Rasio mahasiswa/fakultas
+p. Perc_alumni: Persen alumni yang berdonasi
+q. Expend: Pengeluaran instruksional per mahasiswa
+r. Grad_rate: Tingkat kelulusan mahasiswa
+
+
+data types terdiri daru int64, float64, dan object
